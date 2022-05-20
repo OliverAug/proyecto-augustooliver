@@ -1,0 +1,47 @@
+nav {
+    font-family: 'IBM Plex Sans KR', sans-serif;
+}
+
+body {
+    background-color: #76140d;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+h2 {
+    font-family: 'Shadows Into Light', cursive;
+    color: black;
+    text-align: center;
+}
+
+.carouselslide {
+    position: relative;
+    top: 20%;
+    left: 5%;
+}
+
+.carousel-inner img {
+    
+    max-height: 480px;
+    position: sticky;
+    
+}
+
+.carousel-inner{
+    position: relative;
+    left: 25%;
+ height: 600px;
+ 
+}
+.carousel-inner p {
+  text-transform: uppercase;
+    font-size: larger;
+    color: white;
+    position: relative;
+    left: 15%;
+}
+
+.boton {
+    position: relative;
+    left: 20%;
+}
