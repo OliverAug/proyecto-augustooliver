@@ -97,6 +97,11 @@ form {
     font-weight: bold;
 }
 
+.carritoletra {
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: bold;
+}
+
 .produc {
     font-family: 'Rajdhani', sans-serif;
     font-weight: bold;
@@ -151,7 +156,3 @@ form {
     }
 }
 
-.carritoletra {
-    font-family: 'Rajdhani', sans-serif;
-    font-weight: bold;
-}
