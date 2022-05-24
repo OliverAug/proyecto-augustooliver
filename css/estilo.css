@@ -1,21 +1,22 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
+
 nav {
     font-family: 'IBM Plex Sans KR', sans-serif;
     font-weight: bolder;
-    
+
 
 }
 
 body {
     font-family: 'Roboto', sans-serif;
     color: white;
-   background: linear-gradient(to right, #76140d, #923b35);
-   position: relative;
-   padding-bottom: 2.5em;
-   min-height: 100vh;
+    background: linear-gradient(to right, #76140d, #923b35);
+    position: relative;
+    padding-bottom: 2.5em;
+    min-height: 100vh;
 }
 
 h2 {
@@ -32,21 +33,22 @@ h2 {
 }
 
 .carousel-inner img {
-    
+
     max-height: 480px;
     position: sticky;
-    
+
 }
 
-.carousel-inner{
+.carousel-inner {
     position: relative;
     left: 25%;
- height: 600px;
- 
+    height: 600px;
+
 }
+
 .carousel-inner p {
     font-family: 'Rajdhani', sans-serif;
-  text-transform: uppercase;
+    text-transform: uppercase;
     font-size: larger;
     color: white;
     position: relative;
@@ -95,7 +97,7 @@ form {
     font-weight: bold;
 }
 
-.produc { 
+.produc {
     font-family: 'Rajdhani', sans-serif;
     font-weight: bold;
     text-align: center;
@@ -103,8 +105,8 @@ form {
 
 .produc img {
     box-sizing: border-box;
- width: 300px;
- height: 300px;
+    width: 300px;
+    height: 300px;
 }
 
 .row {
@@ -120,7 +122,7 @@ form {
 
 .column img {
     margin-top: 5px;
-    
+
 }
 
 
@@ -149,6 +151,7 @@ form {
     }
 }
 
-.carritoletra {font-family: 'Rajdhani', sans-serif;
-    font-weight: bold;}
-
+.carritoletra {
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: bold;
+}
